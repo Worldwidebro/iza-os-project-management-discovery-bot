@@ -1,0 +1,79 @@
+{
+  "repository": {
+    "name": "iza-os-project-management-discovery-bot",
+    "type": "agent",
+    "domain": "business",
+    "priority": "high",
+    "revenue_potential": 150000,
+    "dependencies": ["iza-os-core", "iza-os-enterprise"],
+    "apis": ["discovery_api", "analysis_api", "opportunity_api"],
+    "agents": ["project_discovery", "market_analysis", "opportunity_assessment"]
+  },
+  "context": {
+    "purpose": "Advanced AI-powered project management discovery bot that provides real-time project opportunity discovery, market analysis, and intelligent opportunity assessment for billionaire consciousness empire operations",
+    "capabilities": [
+      "project_discovery",
+      "market_analysis",
+      "opportunity_assessment",
+      "risk_analysis",
+      "competitive_analysis",
+      "investment_discovery",
+      "revenue_discovery",
+      "market_gap_analysis",
+      "trend_identification"
+    ],
+    "integrations": [
+      "market_data_platforms",
+      "project_management_systems",
+      "business_intelligence_tools",
+      "financial_analysis_platforms",
+      "competitive_intelligence_systems"
+    ],
+    "business_value": "Enables 70-90% improvement in opportunity discovery, 50-70% better market understanding, 40-60% revenue growth, and 400-800% ROI for billionaire consciousness empire operations",
+    "technical_stack": [
+      "python",
+      "fastapi",
+      "pandas",
+      "numpy",
+      "scikit-learn",
+      "postgresql",
+      "redis"
+    ],
+    "deployment": "docker_kubernetes"
+  },
+  "indexing": {
+    "keywords": [
+      "project_discovery",
+      "market_analysis",
+      "opportunity_assessment",
+      "risk_analysis",
+      "competitive_analysis",
+      "investment_discovery",
+      "revenue_discovery",
+      "billionaire_consciousness"
+    ],
+    "categories": [
+      "project_management",
+      "market_analysis",
+      "business_intelligence",
+      "opportunity_discovery",
+      "enterprise_ai"
+    ],
+    "tags": [
+      "high_performance",
+      "real_time",
+      "enterprise_grade",
+      "ai_powered",
+      "billionaire_consciousness",
+      "revenue_optimization"
+    ],
+    "search_terms": [
+      "project discovery bot",
+      "market analysis",
+      "opportunity assessment",
+      "competitive analysis",
+      "investment discovery",
+      "billionaire consciousness"
+    ]
+  }
+}
